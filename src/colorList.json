@@ -1,0 +1,12 @@
+[
+  { "label": "Red", "color": "#FF3333" },
+  { "label": "Blue", "color": "#3399FF" },
+  { "label": "Green", "color": "#33CC33" },
+  { "label": "Yellow", "color": "#FFFF33" },
+  { "label": "Purple", "color": "#9933FF" },
+  { "label": "Orange", "color": "#FF9933" },
+  { "label": "Pink", "color": "#FF66B2" },
+  { "label": "Brown", "color": "#D2691E" },
+  { "label": "Cyan", "color": "#33FFFF" },
+  { "label": "Magenta", "color": "#FF33FF" }
+]
